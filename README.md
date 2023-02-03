@@ -1,2 +1,2 @@
-# Dio Desafio (COVID-19)
-## Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo.
+# [Dio.me](https://www.dio.me/)
+## Desafio - Desenvolvendo uma Progressive Web Application com React para mapear os dados do COVID19 pelo mundo.
